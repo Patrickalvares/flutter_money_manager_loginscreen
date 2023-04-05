@@ -59,7 +59,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - lib\assets\Google_Icon.png
+    - lib/assets/Google_Icon.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
@@ -78,9 +78,9 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: britanica-black
+    - family: Tools
       fonts:
-        - asset: lib/assets/britanica-black.ttf
+        - asset: lib/assets/Tools.ttf
 
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
